@@ -1,42 +1,52 @@
-### Baker Hasan👋
+<h1 align="center">Hi 👋, I'm Baker Hasan</h1>
+<h3 align="center">A passionate programmer from Bangladesh</h3>
+	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hsnbd&color=blueviolet&style=flat">
+</p>
 
-## I'm a 😍😍 Fullstack Developer 😍😍!
+- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
 
-- 🔭 I’m currently working on ... Self learning
-- 🌱 I’m currently working on ... Laravel
-- 👯 I’m looking to collaborate on ... REACT DEV
-- 🤔 I’m looking for help with ... Expert Programmer
-- 💬 Ask me about ... Anything
+- 👨‍💻 All of my projects are available at [github](https://github.com/hsnbd?tab=repositories)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hsnbd" alt="hsnbd" /> </p>
+- 💬 Ask me about **Javascript** & **CSS**
+
+- 📫 How to reach me **vivek.p9737@gmail.com**
 
 
-### Connect with me:
+	
+### 🛠 &nbsp;Languages and Tools
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/baker-hasan/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/bakerhasan/) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/7715828/hasan-bd)
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+<br>
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+<br>
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
+<br>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnbd&layout=compact&hide=html" alt="hsnbd" /></p>
 
-<br />
-<br />
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/hsnbd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hsnbd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hsnbd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
----
-  <img align="left" alt="shakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hsnbd&show_icons=true&theme=highcontrast&hide_border=true" />
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<!-- <a href="https://www.hsnbd.github.io"><img src="https://img.shields.io/badge/-hsnbd.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/baker-hasan"><img src="https://img.shields.io/badge/-hsnbd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hasanbd666@gmail.com"><img src="https://img.shields.io/badge/-hasanbd666@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/baker.hasan"><img src="https://img.shields.io/badge/-@hsnbd-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnbd&" alt="hsnbd" /></p> -->
