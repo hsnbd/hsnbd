@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=hsnbd&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
+- 🌱 I’m currently working **Next.js, React, Typescript, PHP, Laravel, ELK etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/hsnbd?tab=repositories)
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **hasanbd666@gmail.com**
 
 
 	
