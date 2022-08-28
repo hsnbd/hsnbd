@@ -45,7 +45,7 @@
 
 <p>
 <a href="https://www.hsnbd.github.io"><img src="https://img.shields.io/badge/-hsnbd.github.io-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/baker-hasan"><img src="https://img.shields.io/badge/-baker-hasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/baker-hasan"><img src="https://img.shields.io/badge/-baker--hasan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hasanbd666@gmail.com"><img src="https://img.shields.io/badge/-hasanbd666@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/baker.hasan"><img src="https://img.shields.io/badge/-@baker.hasan-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
