@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=hsnbd&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently working **Next.js, React, Typescript, PHP, Laravel, ELK etc.**
+- 🌱 I’m currently working **NestJS, React, Typescript, PHP, ELK etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/hsnbd?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **Javascript/Typescript** & **PHP**
 
 - 📫 How to reach me **hasanbd666@gmail.com**
 
