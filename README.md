@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **hasanbd666@gmail.com**
 
-<a href="https://codepen.io/hsnbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hsnbd" height="30" width="40" /></a>
-
 
 
 	
