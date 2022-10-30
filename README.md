@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hsnbd&color=blueviolet&style=flat">
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnbd" alt="hsnbd" /></a> </p>
-
 - 🌱 I’m currently working **NestJS, React, Typescript, PHP, ELK etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/hsnbd?tab=repositories)
@@ -15,7 +12,7 @@
 
 - 📫 How to reach me **hasanbd666@gmail.com**
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnbd" alt="hsnbd" /></a> </p>
 
 	
 ### 🛠 &nbsp;Languages and Tools
