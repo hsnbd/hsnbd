@@ -1,20 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baker Hasan</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
-	
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hsnbd&color=blueviolet&style=flat">
-</p>
-- 🌱 I’m currently working **NestJS, React, Typescript, PHP, ELK etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/hsnbd?tab=repositories)
-
-- 💬 Ask me about **Javascript/Typescript** & **PHP**
-
-- 📫 How to reach me **hasanbd666@gmail.com**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnbd" alt="hsnbd" /></a> </p>
-
-	
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
