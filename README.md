@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baker Hasan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Baker Hasan</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
 ### 🛠 &nbsp;Languages and Tools
@@ -27,3 +27,4 @@
 <a href="https://twitter.com/baker.hasan"><img src="https://img.shields.io/badge/-@baker.hasan-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
+ -->
